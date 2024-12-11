@@ -26,3 +26,9 @@ public/          # Static assets
 - Modern animations
 - Optimized performance
 - Security-focused architecture
+
+## Development
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run development server: `npm run dev`
+4. Open http://localhost:3000
