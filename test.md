@@ -1,1 +1,1 @@
-This is a test file to verify GitHub MCP functionality.
+VGhpcyBpcyBhIHRlc3QgZmlsZSB0byB2ZXJpZnkgR2l0SHViIE1DUCBmdW5jdGlvbmFsaXR5Lg==
