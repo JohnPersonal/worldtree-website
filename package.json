@@ -1,1 +1,46 @@
-{"name":"worldtree-website","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint --fix","format":"prettier --write ."},"dependencies":{"next":"14.0.4","react":"^18.2.0","react-dom":"^18.2.0","framer-motion":"^10.16.4","@heroicons/react":"^2.0.18","clsx":"^2.0.0","tailwindcss":"^3.3.0","@radix-ui/react-dialog":"^1.0.4","@radix-ui/react-slot":"^1.0.2","class-variance-authority":"^0.7.0","lucide-react":"^0.263.1","tailwind-merge":"^1.14.0","@hookform/resolvers":"^3.3.2","react-hook-form":"^7.48.2","zod":"^3.22.4"},"devDependencies":{"@types/node":"^20.0.0","@types/react":"^18.2.0","@types/react-dom":"^18.2.0","typescript":"^5.0.0","autoprefixer":"^10.4.16","postcss":"^8.4.31","@typescript-eslint/eslint-plugin":"^6.13.1","@typescript-eslint/parser":"^6.13.1","eslint":"^8.55.0","eslint-config-next":"14.0.4","eslint-config-prettier":"^9.1.0","prettier":"^3.1.0","prettier-plugin-tailwindcss":"^0.5.7"}}
+{
+  "name": "worldtree-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint --fix",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.4",
+    "@heroicons/react": "^2.0.18",
+    "clsx": "^2.0.0",
+    "tailwindcss": "^3.3.0",
+    "@radix-ui/react-dialog": "^1.0.4",
+    "@radix-ui/react-slot": "^1.0.2",
+    "class-variance-authority": "^0.7.0",
+    "lucide-react": "^0.263.1",
+    "tailwind-merge": "^1.14.0",
+    "@hookform/resolvers": "^3.3.2",
+    "react-hook-form": "^7.48.2",
+    "zod": "^3.22.4",
+    "next-themes": "^0.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "eslint": "^8.55.0",
+    "eslint-config-next": "14.0.4",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.7",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
